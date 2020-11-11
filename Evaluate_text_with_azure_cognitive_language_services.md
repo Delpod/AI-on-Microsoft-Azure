@@ -1,4 +1,3 @@
-
 # Evaluate text with Azure Cognitive Language Services
 
 ## Azure Content Moderator
@@ -24,7 +23,7 @@ Ta usługa może zostać wykorzystana w miejscach, gdzie użytkownicy tworzą te
 * Wpisy na portalach społecznościowych, gdzie mogą być dodawane zdjęcia lub filmy.
 
 ### **How to**
-Usługę mozna utworzyć w *Azure portal*, a następnie przetestować posługując się *Subscription Key*. 
+Usługę mozna utworzyć w _Azure portal_, a następnie przetestować posługując się _Subscription Key_. 
 
 Usługa zapewnia 5000 darmowych moderacji i przeglądów miesięcznie, z limitem jednej transakcji na sekundę.
 
@@ -46,7 +45,7 @@ Przykładami użycia tego serwisu mogą być np.
 * Aplikacja mailowa czy smsowa, która analizując emaile czy wiadomosci pyta się, czy dodać przypomnienie na konkretny termin. Takie rozwiązanie ma gmail przy biletach lotniczych czy bookowanych hotelach. I od razu można pokazać użytkownikowi odpowiednią reklamę. Ktoś leci do Rzymu w czerwcu? W nowych Ray-Banach będzie wyglądać cudownie.
 
 ### **How to**
-Usługę mozna utworzyć w *Azure portal*. Następnie należy stworzyć aplikację w konkretnej lokacji i wybrać konkretną kulturę.
+Usługę mozna utworzyć w _Azure portal_. Następnie należy stworzyć aplikację w konkretnej lokacji i wybrać konkretną kulturę.
 
 W aplikacji trzeba stworzyć intencje i podmioty, np. powitanie użytkownika, dodanie zdjęcia czy zapisanie zadania w kalendarzu. Stworzony model należy wytrenować/przetestować i jeśli model będzie działał wystarczająco dobrze, to można opublikować aplikację.
 
@@ -66,7 +65,7 @@ W przypadku wykrywania nacechowania tekstu i zwraca wartość od 0 do 1, gdzie 1
 * Można użyć tego do automatycznego sprawdzania czy recenzja produktu jest pozytywna czy negatywna i w zależności od tego ile zapłacił producent można akceptować tylko te pozytywne, a przy negatywnych zwracać jakiś dziwny błąd ze statusem 500.
 
 ### **How to**
-Usługę mozna utworzyć w *Azure portal*. Następnie usługę można przetestować ją z poziomu konsoli lub użyć interfejsu API w aplikacji wykonując żądania POST.
+Usługę mozna utworzyć w _Azure portal_. Następnie usługę można przetestować ją z poziomu konsoli lub użyć interfejsu API w aplikacji wykonując żądania POST.
 
 Cena usługi jest mocno uzależniona od wybranej instancji, na standardowych poziomach usługa zapewnia 5000 darmowych żądań miesięcznie.
 
