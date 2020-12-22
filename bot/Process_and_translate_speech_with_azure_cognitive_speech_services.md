@@ -24,4 +24,4 @@ Usługę mozna utworzyć w _Azure portal_, wyszukując "speech", a następnie wy
 
 Usługa przy standardowych funkcjach zapewnia 5 milionów znaków zamiany tekstu na mowę i 5 godzin darmowej zamiany mowy na tekst i 5 godzin tłumaczenia mowy. Pozwala też na 10 000 weryfikacji i 10 000 identyfikacji osoby mówiącej.
 
-Powyżej tego limitu usługa ma cenę od 0.884€ za godzinę transkrypcji ze strumienia audio, 3.374€ za mln znaków przetworzonych na mowę i 2.11€ za godzinę tłumaczenia oraz odpowiednio 4.217€ i 8.433€ za weryfikację i idendyfikację rozmówcy. Cena dotyczny regionu EU West.
+Powyżej tego limitu usługa ma cenę od 0.884€ za godzinę transkrypcji ze strumienia audio, 3.374€ za mln znaków przetworzonych na mowę i 2.11€ za godzinę tłumaczenia oraz odpowiednio 4.217€ i 8.433€ za weryfikację i idendyfikację rozmówcy. Cena dotyczy regionu EU West.

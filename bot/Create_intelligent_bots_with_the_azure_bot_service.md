@@ -19,7 +19,7 @@ Po dodaniu pytań i odpowiedzi baza wiedzy musi zostać sprawdzona, przetestowan
 
 Można wykonać maksymalnie 3 transakcje na sekundę i do 100 transakcji na minutę. Wersja darmowa ma dodatkowe ograniczenia 50 000 transakcji na miesiąc i dokumenty o rozmiarze maksymalnie 1MB.
 
-Za darmo mogą być zarządzane 3 dokumenty. Wersja płatna 8,433€ miesięcznie pozwala na nieograniczoną liczbę dokumentów. Cena dotyczny regionu EU West.
+Za darmo mogą być zarządzane 3 dokumenty. Wersja płatna 8,433€ miesięcznie pozwala na nieograniczoną liczbę dokumentów. Cena dotyczy regionu EU West.
 
 ## Azure Bot Service
 
@@ -43,7 +43,7 @@ Azure zapewnia dwa typy kanałów.
 * Standardowe - które obejmują usługi Microsoftu (Skype, Cortana, Teams) oraz usługi z publicznie dostępnymi interfejsami API botów (takie jak Facebook i Slack). Za darmo dostępna jest nieograniczona liczba komunikatów.
 * Premium - które umożliwiają botowi niezawodne komunikowanie się z użytkownikami w ramach aplikacji lub witryny własnej klienta. Za darmo dostępne jest 10 000 komunikatów miesięcznie. Powyżej tej liczby koszt wyniosi 0,442€ za 1000 komunikatów.
 
-Cena dotyczny regionu EU West.
+Cena dotyczy regionu EU West.
 
 ## Bot Framework Composer
 

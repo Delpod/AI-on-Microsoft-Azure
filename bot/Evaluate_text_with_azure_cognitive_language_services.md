@@ -27,7 +27,7 @@ Usługę mozna utworzyć w _Azure portal_, a następnie przetestować posługuj�
 
 Usługa zapewnia 5000 darmowych moderacji i przeglądów miesięcznie, z limitem jednej transakcji na sekundę.
 
-Powyżej tego limitu usługa ma cenę od 0.338€ za 1000 transakcji przy ponad 10 mln transakcji miesięcznie do 0.844€ za 1000 transakcji przy 0 do 1 mln transakcji miesięcznie. Cena dotyczny regionu EU West.
+Powyżej tego limitu usługa ma cenę od 0.338€ za 1000 transakcji przy ponad 10 mln transakcji miesięcznie do 0.844€ za 1000 transakcji przy 0 do 1 mln transakcji miesięcznie. Cena dotyczy regionu EU West.
 
 ## Language Understanding Intelligent Service (LUIS)
 
@@ -51,7 +51,7 @@ W aplikacji trzeba stworzyć intencje i podmioty, np. powitanie użytkownika, do
 
 Usługa zapewnia 10000 darmowych żądań tekstowych i 1 mln tworzeń transakcji miesięcznie, z limitem 5 transakcji na sekundę. Żądania z rozponawaniem mowy są płatne.
 
-Powyżej tego limitu usługa ma cenę od 1,265€ za 1000 żądań tekstowych. Koszt 1000 żądań z rozpoznawaniem mowy wynosi 4,639€. Cena dotyczny regionu EU West.
+Powyżej tego limitu usługa ma cenę od 1,265€ za 1000 żądań tekstowych. Koszt 1000 żądań z rozpoznawaniem mowy wynosi 4,639€. Cena dotyczy regionu EU West.
 
 ## Text Analytics API
 
@@ -69,4 +69,4 @@ Usługę mozna utworzyć w _Azure portal_. Następnie usługę można przetestow
 
 Cena usługi jest mocno uzależniona od wybranej instancji, na standardowych poziomach usługa zapewnia 5000 darmowych żądań miesięcznie.
 
-Powyżej tego limitu usługa ma cenę od 1,687€ do 0,211€ za 1000 żądań tekstowych. Cena dotyczny regionu EU West.
+Powyżej tego limitu usługa ma cenę od 1,687€ do 0,211€ za 1000 żądań tekstowych. Cena dotyczy regionu EU West.
