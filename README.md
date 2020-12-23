@@ -18,8 +18,14 @@
 
 ### Część teoretyczna
 
-> TODO
+[Face API](custom-vision/Face_API.md)
+
+[Computer Vision API](custom-vision/Computer_Vision_API.md)
+
+[Custom Vision](custom-vision/Custom_Vision.md)
+
+[Video Indexer](custom-vision/Video_Indexer.md)
 
 ### Część praktyczna
 
-> TODO
+[Laboratorium Computer Vision - ReadMe](custom-vision/README.md)
