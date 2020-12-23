@@ -12,6 +12,9 @@
 
 ## Część praktyczna
 
+### Aplikacja
+Gotową aplikację można znaleźć tutaj: https://recipefinderdl.azurewebsites.net/
+
 ### Use case
 
 W przypadku braku pomysłu na obiad trzeba sięgnąć po przepisy. Jednakże pojawia się problem, w lodówce jest trochę rzeczy, ale co można z tego zrobić? Jednym możliwym rozwiązaniem będzie szukanie przepisów które zawierają posiadane rzeczy.
