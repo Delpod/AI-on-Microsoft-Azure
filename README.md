@@ -30,7 +30,7 @@
 
 [Laboratorium Computer Vision - ReadMe](custom-vision/README.md)
 
-## ## [Laboratorium AutoML](aml/aml-notebook.ipynb)
+## [Laboratorium AutoML](aml/aml-notebook.ipynb)
 
 ### Część praktyczna
 
